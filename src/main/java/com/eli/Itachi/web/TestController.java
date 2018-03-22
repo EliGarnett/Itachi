@@ -1,5 +1,8 @@
 package com.eli.Itachi.web;
 
 public class TestController {
-    
+
+    public static void main(String[] args) {
+        System.out.println("this is master");
+    }
 }
