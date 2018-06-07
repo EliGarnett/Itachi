@@ -1,4 +1,4 @@
-package com.eli.Itachi;
+package priv.eli.Itachi;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
