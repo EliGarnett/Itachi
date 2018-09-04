@@ -17,4 +17,5 @@ public class Generator<T> {
     public T getKey() {
         return key;
     }
+
 }
