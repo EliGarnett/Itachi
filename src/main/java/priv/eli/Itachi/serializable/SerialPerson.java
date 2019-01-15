@@ -21,6 +21,7 @@ public class SerialPerson implements Serializable {
         this.age = age;
     }
 
+    @Override
     public String toString() {
         return "name : " + name + "\t age : " + age;
     }

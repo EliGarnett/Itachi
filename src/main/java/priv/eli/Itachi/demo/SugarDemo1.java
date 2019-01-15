@@ -70,6 +70,8 @@ public class SugarDemo1 {
             case BLACK:
                 System.out.println("BLACK");
                 break;
+            default:
+                break;
         }
     }
 }

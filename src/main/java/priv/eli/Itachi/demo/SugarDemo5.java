@@ -15,9 +15,7 @@ public class SugarDemo5 {
             testList.add(String.valueOf(i));
         }
 
-
         testList.stream().forEach(System.out::println);
-
 
 
     }
