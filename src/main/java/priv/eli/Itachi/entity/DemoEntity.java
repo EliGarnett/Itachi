@@ -10,8 +10,9 @@ import lombok.NonNull;
 @Data
 public class DemoEntity {
 
-    private Integer id;
-
     private String name;
 
+    public DemoEntity(String name) {
+        this.name = name;
+    }
 }
