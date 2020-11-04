@@ -145,3 +145,5 @@ mvnw.cmd
 #### mybatis-generator[Begin] ###
 classpath:/mybatis-generator.xml
 #### mybatis-generator[End] ###
+
+*.sh
