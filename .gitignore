@@ -14,8 +14,6 @@ hs_err_pid*
 ### Java template[End] ###
 
 
-*.sh
-
 
 ### OSX template[Begin] ###
 .DS_Store
