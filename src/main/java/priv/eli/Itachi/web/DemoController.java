@@ -1,9 +1,12 @@
 package priv.eli.Itachi.web;
 
+import com.google.common.collect.Lists;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
 import priv.eli.Itachi.entity.DemoEntity;
+
+import java.util.List;
 
 /**
  * @Author Eli
@@ -17,4 +20,7 @@ public class DemoController {
         System.out.println(param.toString());
     }
 
+    public static void main(String[] args) {
+
+    }
 }
