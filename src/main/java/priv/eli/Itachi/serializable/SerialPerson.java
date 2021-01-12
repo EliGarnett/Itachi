@@ -1,7 +1,8 @@
 package priv.eli.Itachi.serializable;
 
-import java.io.Serializable;
 import lombok.Data;
+
+import java.io.Serializable;
 
 /**
  * @author Eli
